@@ -1,2 +1,1 @@
-print("Hi All we are in the world of death")
-
+print("Hi This is our first ML Project")
