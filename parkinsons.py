@@ -1,2 +1,2 @@
-print("Welcome to the world of parkins")
+print("Welcome to the world of parks")
 
