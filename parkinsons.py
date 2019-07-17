@@ -1,2 +1,2 @@
-print("Welcome to the world of parkinsons")
+print("Welcome to the world of parkins")
 
